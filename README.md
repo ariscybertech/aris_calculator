@@ -1,6 +1,6 @@
 ### Hi there, I'm Behruz Hurramov
 
-![MobileScreenshot](screenshots/screenrecord.png)
+![MobileScreenshot](screenshots/screenrecord.gif)
 
 ## Getting Started
 
