@@ -124,7 +124,7 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Simple Calculator')),
+      appBar: AppBar(title: Text('Aris Calculator')),
       body: Column(
         children: <Widget>[
 
