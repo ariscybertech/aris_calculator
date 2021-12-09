@@ -92,7 +92,7 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
       }
     });
   }
-  ///
+  ////
   Widget buildButton(String buttonText, double buttonHeight, Color buttonColor){
     return Container(
       height: MediaQuery.of(context).size.height * 0.1 * buttonHeight,
