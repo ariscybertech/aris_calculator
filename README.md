@@ -9,6 +9,7 @@ $ git clone https://github.com/ariscybertech/aris_calculator.git
 $ flutter packages get
 ```
 Run the application and enjoy :tada::relaxed:
+<a href="https://www.buymeacoffee.com/ariscybertech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
 • Perform basic calculations such as addition, subtraction, multiplication, and division
 • Do scientific operations such as trigonometric, logarithmic, and exponential functions
