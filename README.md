@@ -1,5 +1,3 @@
-### Hi there, I'm Behruz Hurramov
-
 <h1 align="center">Calculator app</h1>
 <h3 align="center">
 Simple calculator
