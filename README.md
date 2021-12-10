@@ -1,5 +1,9 @@
 ### Hi there, I'm Behruz Hurramov
 
+<h1 align="center">Plante🌱 app</h1>
+<h3 align="center">
+Community-based vegan groceries map
+<br />
 <p align="center">
   <img alt="app-store" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/app-store.png" />
   <img alt="google-play" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/play-store.png" />
