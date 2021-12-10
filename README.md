@@ -1,5 +1,10 @@
 ### Hi there, I'm Behruz Hurramov
 
+<p align="center">
+  <img alt="app-store" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/app-store.png" />
+  <img alt="google-play" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/play-store.png" />
+</p>
+
 ![MobileScreenshot](screenshots/screenrecord.gif)
 
 ## Getting Started
