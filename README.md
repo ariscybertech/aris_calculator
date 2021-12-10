@@ -1,6 +1,6 @@
 ### Hi there, I'm Behruz Hurramov
 
-<h1 align="center">Plante🌱 app</h1>
+<h1 align="center">Calculato app</h1>
 <h3 align="center">
 Simple calculator
 </h3>
