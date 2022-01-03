@@ -11,7 +11,7 @@ Simple calculator
 </p>
 
 <br />
-
+ 
 ![MobileScreenshot](screenshots/screenrecord.gif)
 
 ## Getting Started
